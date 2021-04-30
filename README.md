@@ -1,4 +1,4 @@
-# DS875
+# Introduction to APIs
 
 <!--- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/blue442/DS875/HEAD) -->
 
