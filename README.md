@@ -10,4 +10,4 @@ The second notebook ([fastapi.ipynb](https://github.com/blue442/DS875/blob/main/
 
 <!--- These notebooks can be run using the [Binder](https://mybinder.org/) service by clicking on the Binder button located at the top of this readme, or if you navigate to either notebook they will contain a button at the top to launch using the [google colab](https://colab.research.google.com/) service. -->
 
-These notebooks can be run interactively online in a free virtual environment by using the [google colab](https://colab.research.google.com/) service. To do so, just navigate to either notebook (in the 'notebook' folder),  and they will contain a button at the top that will launch them in the colab environment. 
+<!-- These notebooks can be run interactively online in a free virtual environment by using the [google colab](https://colab.research.google.com/) service. To do so, just navigate to either notebook (in the 'notebook' folder),  and they will contain a button at the top that will launch them in the colab environment. -->
